@@ -2,8 +2,8 @@
 
 **University of Central Missouri – Department of Computer Science & Cybersecurity**
 **Course:** CS5760 – Natural Language Processing | Spring 2026
-**Student Name:** [Your Name]
-**Student ID:** [Your ID]
+**Student Name:** Tirumala Rao Peddakota
+**Student ID:** 700774914
 
 ---
 
